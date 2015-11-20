@@ -1,0 +1,22 @@
+{
+  "name": "sugar-string",
+  "authors": [
+    "EvanWieland <evanw@nussbaum.com>"
+  ],
+  "description": "Sugar.js string module",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "Sugar.js"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
